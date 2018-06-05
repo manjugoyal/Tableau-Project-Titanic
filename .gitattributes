@@ -1,0 +1,2 @@
+*.html, *.pdf linguist-vendored
+# file to ensure github does not  pick html as language of project
